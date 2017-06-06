@@ -1,2 +1,1 @@
-# front-end-starter-kit
-# pseudo-website
+# website practice
